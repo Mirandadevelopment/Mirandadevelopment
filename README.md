@@ -103,10 +103,10 @@ Sou **Allan Miranda**, desenvolvedor especializado em ecossistema **FiveM + Disc
 
 ## 🧭 Como eu trabalho
 
-```mermaid
-flowchart LR
-A[Briefing] --> B[Planejamento Técnico]
-B --> C[Desenvolvimento]
-C --> D[Testes e Otimização]
-D --> E[Entrega]
-E --> F[Suporte e Evolução]
+<p align="center">
+  <img src="https://img.shields.io/badge/1-Briefing-1f2937?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/2-Planejamento-334155?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/3-Desenvolvimento-0f766e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/4-Testes%20%26%20Otimização-1d4ed8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/5-Entrega%20%26%20Suporte-7c3aed?style=for-the-badge" />
+</p>
