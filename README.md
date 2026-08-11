@@ -1,69 +1,112 @@
-## 💻 Allan Miranda | Programador FiveM & Desenvolvedor de Bots
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f2027,50:203a43,100:2c5364&text=Allan%20Miranda&fontAlign=50&fontAlignY=38&fontSize=52&fontColor=ffffff&desc=FiveM%20Developer%20%E2%80%A2%20Discord%20Bot%20Developer%20%E2%80%A2%20ADS%20Student&descAlign=50&descAlignY=60&animation=fadeIn" />
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/FiveM-Custom-blue?style=for-the-badge&logo=power-automate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scripts-Exclusivos-darkgreen?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bots_Discord-Full_Stack-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2600&pause=900&color=00F5D4&center=true&vCenter=true&width=980&lines=Solu%C3%A7%C3%B5es+profissionais+para+FiveM+e+Discord;Scripts+customizados+(VRP%2FvRPex)+com+alta+performance;Bots+com+Whitelist%2C+Tickets%2C+Logs+e+Automa%C3%A7%C3%B5es;An%C3%A1lise+e+Desenvolvimento+de+Sistemas+(Unicesumar)" alt="Typing animation" />
+</p>
 
-### 🚀 Sobre Mim: Soluções FiveM Exclusivas e de Alta Performance
-
-Sou um desenvolvedor especializado em elevar o nível de comunidades FiveM e Discord, com **experiência sólida desde 2021**. Meu trabalho foca em qualidade, otimização e em transformar sua visão em uma realidade funcional e segura.
-
-Meu objetivo é simples: entregar um servidor robusto e exclusivo que se destaque no mercado, eliminando as complexidades da programação para o cliente.
-
----
-
-### 🛠️ Serviços & Expertise
-
-#### 1. Programação de Servidores FiveM do Zero
-Crio e otimizo servidores completos, prontos para rodar:
-* **Montagem "Chave na Mão":** Estrutura completa, partindo da compra da cidade até a programação final (sempre com foco em estabilidade).
-* **Otimização Profunda:** Garantia de performance e redução de latência/bugs.
-* **Frameworks:** Conhecimento avançado e prático em **VRP** e **vRPex**.
-
-#### 2. Scripts Exclusivos (VRP/vRPex)
-A funcionalidade que você precisa, desenvolvida unicamente para você:
-* Desenvolvimento de **Scripts Customizados** do zero, com foco em sistemas de RP complexos e inovações que a concorrência não tem.
-
-#### 3. Bots de Discord Profissionais
-Automatização segura para gestão de comunidade:
-* **Bots de Ticket e Whitelist Personalizados.**
-* Implementação de verificação de acesso via **Steam ID** ou **ID** da conta no jogo, para máxima segurança e profissionalismo.
+<p align="center">
+  <a href="https://github.com/Mirandadevelopment">
+    <img src="https://img.shields.io/badge/GitHub-Mirandadevelopment-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/allan-miranda-374b1a214/">
+    <img src="https://img.shields.io/badge/LinkedIn-Allan%20Miranda-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <img src="https://img.shields.io/badge/Discord-mirandadeveloper-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Foco-Qualidade%20%26%20Performance-00b894?style=for-the-badge" />
+</p>
 
 ---
 
-### ⭐ Por Que Contratar Meus Serviços?
+## 👨‍💻 Sobre mim
 
-| Recurso | Valor Agregado |
-| :--- | :--- |
-| **Experiência** | Mais de 3 anos de trabalho e aprimoramento contínuo de servidores e bots. |
-| **Exclusividade** | Scripts feitos sob medida, fugindo de soluções *leakadas* ou genéricas. |
-| **Qualidade de Código** | Código limpo, comentado e otimizado para fácil manutenção e melhor desempenho. |
+Sou **Allan Miranda**, desenvolvedor especializado em ecossistema **FiveM + Discord**, com experiência prática na criação e otimização de sistemas para comunidades de GTA RP.
+
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **Unicesumar** (Piabetá, Magé/RJ), aplicando fundamentos de engenharia de software em projetos reais.
 
 ---
 
-### ✉️ Contato e Orçamento
+## 🛠️ Stack e Ferramentas
 
-Pronto para ter o servidor que você sempre sonhou? Entre em contato diretamente para discutir seu projeto e solicitar um orçamento:
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=fff" />
+</p>
 
-* **Discord:** `Mirandadeveloper`
-* **E-mail:** `miranda.development1@gmail.com`
+<p align="center">
+  <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=fff" />
+  <img src="https://img.shields.io/badge/FiveM-FF6B00?style=for-the-badge&logo=rockstargames&logoColor=fff" />
+  <img src="https://img.shields.io/badge/HeidiSQL-1E1E1E?style=for-the-badge&logo=mysql&logoColor=fff" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VRP-0A0A0A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/vRPex-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tickets-22C55E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Whitelist-3B82F6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Steam%20ID-1B2838?style=for-the-badge&logo=steam&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff" />
+</p>
 
 ---
-_Este portfólio representa minha experiência e é atualizado periodicamente com novos projetos._
 
-<!--
-**Mirandadevelopment/Mirandadevelopment** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📦 Serviços
 
-Here are some ideas to get you started:
+- 🎮 Scripts FiveM personalizados (VRP/vRPex)
+- 🤖 Bots Discord (tickets, whitelist, moderação e logs)
+- 🗄️ Banco de dados com MySQL/MongoDB + HeidiSQL
+- ⚙️ Otimização de performance e estabilidade de servidor
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📂 Projetos em destaque
+
+- [bot-discord-jarvis](https://github.com/Mirandadevelopment/bot-discord-jarvis)
+- [discord-bot-professional-v3](https://github.com/Mirandadevelopment/discord-bot-professional-v3)
+- [NEXUS-Optimizer](https://github.com/Mirandadevelopment/NEXUS-Optimizer)
+- [complexodamare.fivem-hypnonema](https://github.com/Mirandadevelopment/complexodamare.fivem-hypnonema)
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Mirandadevelopment&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirandadevelopment&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Mirandadevelopment&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mirandadevelopment&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
+</p>
+
+---
+
+## 🤝 Contato
+
+<p align="center">
+  <a href="mailto:zeusmiranda63@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-zeusmiranda63%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/allan-miranda-374b1a214/">
+    <img src="https://img.shields.io/badge/LinkedIn-Allan%20Miranda-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <img src="https://img.shields.io/badge/Discord-mirandadeveloper-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2c5364,50:203a43,100:0f2027" />
+</p>
