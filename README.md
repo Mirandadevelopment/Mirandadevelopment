@@ -103,10 +103,97 @@ Sou **Allan Miranda**, desenvolvedor especializado em ecossistema **FiveM + Disc
 
 ## 🧭 Como eu trabalho
 
+1. **Briefing do projeto**  
+   Entendo o objetivo do servidor/comunidade e os requisitos técnicos.
+
+2. **Planejamento técnico**  
+   Defino arquitetura, ferramentas e estrutura ideal para performance e manutenção.
+
+3. **Desenvolvimento**  
+   Construo scripts/bots com foco em organização, segurança e escalabilidade.
+
+4. **Testes e otimização**  
+   Valido funcionamento, reduzo falhas e otimizo consumo/estabilidade.
+
+5. **Entrega e suporte**  
+   Entrego solução pronta para uso e continuo com melhorias evolutivas.
+
 <p align="center">
   <img src="https://img.shields.io/badge/1-Briefing-1f2937?style=for-the-badge" />
   <img src="https://img.shields.io/badge/2-Planejamento-334155?style=for-the-badge" />
   <img src="https://img.shields.io/badge/3-Desenvolvimento-0f766e?style=for-the-badge" />
   <img src="https://img.shields.io/badge/4-Testes%20%26%20Otimização-1d4ed8?style=for-the-badge" />
   <img src="https://img.shields.io/badge/5-Entrega%20%26%20Suporte-7c3aed?style=for-the-badge" />
+</p>
+
+---
+
+## 📂 Projetos em destaque
+
+- **[bot-discord-jarvis](https://github.com/Mirandadevelopment/bot-discord-jarvis)**  
+  Bot em TypeScript com estrutura para moderação e expansão de recursos.
+
+- **[discord-bot-professional-v3](https://github.com/Mirandadevelopment/discord-bot-professional-v3)**  
+  Projeto para gestão profissional de comunidade (tickets/whitelist/staff).
+
+- **[NEXUS-Optimizer](https://github.com/Mirandadevelopment/NEXUS-Optimizer)**  
+  Utilitário de otimização com foco em desempenho.
+
+- **[complexodamare.fivem-hypnonema](https://github.com/Mirandadevelopment/complexodamare.fivem-hypnonema)**  
+  Repositório ligado ao contexto de desenvolvimento FiveM.
+
+---
+
+## 📊 Métricas Profissionais
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Foco-FiveM%20%2B%20Discord-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Atuação-Scripts%20Custom%20%26%20Bots%20Profissionais-0f766e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Qualidade-Código%20Limpo%20%26%20Escalável-1d4ed8?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Stack-Node.js%20%7C%20TypeScript%20%7C%20Lua-334155?style=flat-square" />
+  <img src="https://img.shields.io/badge/Database-MySQL%20%7C%20MongoDB%20%7C%20HeidiSQL-334155?style=flat-square" />
+  <img src="https://img.shields.io/badge/Versionamento-Git%20%26%20GitHub-334155?style=flat-square" />
+</p>
+
+<p align="center">
+  Perfil orientado a <b>performance</b>, <b>estabilidade</b> e <b>entrega profissional</b>.
+</p>
+
+---
+
+## 🐍 Atividade no GitHub
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mirandadevelopment/Mirandadevelopment/output/snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+## 🎯 Objetivos atuais (ADS + Mercado)
+
+- Elevar padrão de arquitetura Node.js/TypeScript
+- Publicar projetos completos e reutilizáveis
+- Padronizar documentação e qualidade nos repositórios
+- Fortalecer presença profissional no GitHub
+
+---
+
+## 🤝 Contato
+
+- **GitHub:** [@Mirandadevelopment](https://github.com/Mirandadevelopment)
+- **LinkedIn:** [Allan Miranda](https://www.linkedin.com/in/allan-miranda-374b1a214/)
+- **Discord:** `mirandadeveloper`
+- **E-mail:** `zeusmiranda63@gmail.com`
+
+---
+
+<p align="center">
+  <b>"Código limpo, performance real e soluções sob medida."</b> 🚀
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2c5364,50:203a43,100:0f2027" />
 </p>
