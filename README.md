@@ -1,5 +1,10 @@
-<h1 align="center">Allan Miranda 👨‍💻</h1>
-<h3 align="center">FiveM Developer • Discord Bot Developer • Estudante de ADS</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f2027,50:203a43,100:2c5364&text=Allan%20Miranda&fontAlign=50&fontAlignY=38&fontSize=52&fontColor=ffffff&desc=FiveM%20Developer%20%E2%80%A2%20Discord%20Bot%20Developer%20%E2%80%A2%20ADS%20Student&descAlign=50&descAlignY=60&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2600&pause=900&color=00F5D4&center=true&vCenter=true&width=980&lines=Solu%C3%A7%C3%B5es+profissionais+para+FiveM+e+Discord;Scripts+customizados+(VRP%2FvRPex)+com+alta+performance;Bots+com+Whitelist%2C+Tickets%2C+Logs+e+Automa%C3%A7%C3%B5es;An%C3%A1lise+e+Desenvolvimento+de+Sistemas+(Unicesumar)" alt="Typing animation" />
+</p>
 
 <p align="center">
   <a href="https://github.com/Mirandadevelopment">
@@ -9,16 +14,22 @@
     <img src="https://img.shields.io/badge/LinkedIn-Allan%20Miranda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Discord-mirandadeveloper-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Foco-Qualidade%20%26%20Performance-00b894?style=for-the-badge" />
 </p>
 
 ---
 
-## 👋 Sobre mim
+## 👨‍💻 Sobre mim
 
-Sou desenvolvedor especializado em **FiveM + Discord**, com foco em soluções profissionais para comunidades GTA RP.
+Sou **Allan Miranda**, desenvolvedor especializado em ecossistema **FiveM + Discord**, com experiência prática na criação e otimização de sistemas para comunidades de GTA RP.
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **Unicesumar**.  
-🚀 Atuo com desenvolvimento de scripts exclusivos, bots completos e otimização de performance.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **Unicesumar** (Piabetá, Magé/RJ), aplicando fundamentos de engenharia de software em projetos reais.
+
+### ✅ O que entrego
+- Soluções robustas e organizadas
+- Scripts e bots personalizados para cada necessidade
+- Performance, manutenção e escalabilidade
+- Integração entre servidor FiveM e gestão via Discord
 
 ---
 
@@ -52,22 +63,36 @@ Sou desenvolvedor especializado em **FiveM + Discord**, com foco em soluções p
 
 ---
 
-## 🎮 Especialidade em FiveM
+## 🎮 FiveM (GTA RP) — Expertise
 
-- Desenvolvimento de scripts personalizados (VRP/vRPex)
-- Estruturação e otimização de servidor
-- Recursos exclusivos para diferenciação do seu projeto
-- Foco em estabilidade, performance e manutenção
-
-## 🤖 Especialidade em Bots Discord
-
-- Bots de **Whitelist**, **Tickets**, **Moderação** e **Logs**
-- Fluxos automatizados para staff e comunidade
-- Integração com banco de dados e validação de acesso
+- Desenvolvimento de **scripts exclusivos** (VRP/vRPex)
+- Estruturação de servidor do zero
+- Otimização de recursos (menos consumo, mais estabilidade)
+- Sistemas customizados para diferenciação de servidor
+- Integrações com bots Discord para fluxos de staff
 
 ---
 
-## 📦 Serviços
+## 🤖 Discord Bots — Expertise
+
+- Bots de **Ticket**, **Whitelist**, **Moderação** e **Logs**
+- Painéis e comandos administrativos
+- Verificação de acesso (Steam ID/identificadores)
+- Automação de processos da comunidade
+- Organização para evolução contínua do bot
+
+---
+
+## 🗄️ Banco de Dados (MySQL, MongoDB e HeidiSQL)
+
+- Estruturação e manutenção de dados para whitelist/tickets/logs
+- Consultas e organização de dados para operação diária
+- Gestão prática de banco com **HeidiSQL**
+- Integração de dados entre bot Discord e ecossistema FiveM
+
+---
+
+## 📦 Serviços Profissionais
 
 - ✅ Programação de servidor FiveM do zero
 - ✅ Scripts exclusivos sob demanda
@@ -76,27 +101,12 @@ Sou desenvolvedor especializado em **FiveM + Discord**, com foco em soluções p
 
 ---
 
-## 📂 Projetos em destaque
+## 🧭 Como eu trabalho
 
-- [bot-discord-jarvis](https://github.com/Mirandadevelopment/bot-discord-jarvis)
-- [discord-bot-professional-v3](https://github.com/Mirandadevelopment/discord-bot-professional-v3)
-- [NEXUS-Optimizer](https://github.com/Mirandadevelopment/NEXUS-Optimizer)
-- [complexodamare.fivem-hypnonema](https://github.com/Mirandadevelopment/complexodamare.fivem-hypnonema)
-
----
-
-## 📊 Estatísticas GitHub
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mirandadevelopment&show_icons=true&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirandadevelopment&layout=compact&hide_border=true" />
-</p>
-
----
-
-## 🤝 Contato
-
-- GitHub: [@Mirandadevelopment](https://github.com/Mirandadevelopment)
-- LinkedIn: [Allan Miranda](https://www.linkedin.com/in/allan-miranda-374b1a214/)
-- Discord: `mirandadeveloper`
-- E-mail: `zeusmiranda63@gmail.com`
+```mermaid
+flowchart LR
+A[Briefing] --> B[Planejamento Técnico]
+B --> C[Desenvolvimento]
+C --> D[Testes e Otimização]
+D --> E[Entrega]
+E --> F[Suporte e Evolução]
