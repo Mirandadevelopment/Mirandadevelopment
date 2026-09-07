@@ -330,22 +330,6 @@ Sou **Allan Miranda**, desenvolvedor especializado em **FiveM + Discord**, com e
 
 
 
-## 🐍 Atividade no GitHub
-
-
-
-<p align="center">
-
-  <img src="https://raw.githubusercontent.com/Mirandadevelopment/Mirandadevelopment/output/snake.svg" alt="snake animation" />
-
-</p>
-
-
-
----
-
-
-
 ## 🎯 Objetivos atuais
 
 
