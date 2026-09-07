@@ -316,11 +316,13 @@ Sou **Allan Miranda**, desenvolvedor especializado em **FiveM + Discord**, com e
 
 
 
-## 🏆 Estatísticas no GitHub
+## 📊 Estatísticas & Destaques no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mirandadevelopment&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirandadevelopment&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
+  <img src="https://img.shields.io/badge/Commits-100%2B-blue?style=for-the-badge&logo=github&logoColor=white" alt="Commits" />
+  <img src="https://img.shields.io/badge/Pull_Requests-Merged-purple?style=for-the-badge&logo=github&logoColor=white" alt="PRs" />
+  <img src="https://img.shields.io/badge/Main_Stack-Node.js_%7C_React_%7C_TypeScript-00b894?style=for-the-badge" alt="Main Stack" />
+  <img src="https://img.shields.io/badge/Status-Desenvolvedor_Ativo-success?style=for-the-badge" alt="Status" />
 </p>
 
 ---
