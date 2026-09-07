@@ -318,14 +318,9 @@ Sou **Allan Miranda**, desenvolvedor especializado em **FiveM + Discord**, com e
 
 ## 🏆 Conquistas no GitHub
 
-
-
 <p align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=Mirandadevelopment&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Mirandadevelopment&theme=tokyonight&margin-w=15&margin-h=15" alt="trophies" />
 </p>
-
 
 
 ---
