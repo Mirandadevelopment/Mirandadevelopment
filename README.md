@@ -316,13 +316,15 @@ Sou **Allan Miranda**, desenvolvedor especializado em **FiveM + Discord**, com e
 
 
 
-## 📊 Estatísticas & Destaques no GitHub
+## 📊 Estatísticas & Atividade
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Commits-100%2B-blue?style=for-the-badge&logo=github&logoColor=white" alt="Commits" />
-  <img src="https://img.shields.io/badge/Pull_Requests-Merged-purple?style=for-the-badge&logo=github&logoColor=white" alt="PRs" />
-  <img src="https://img.shields.io/badge/Main_Stack-Node.js_%7C_React_%7C_TypeScript-00b894?style=for-the-badge" alt="Main Stack" />
-  <img src="https://img.shields.io/badge/Status-Desenvolvedor_Ativo-success?style=for-the-badge" alt="Status" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mirandadevelopment&theme=tokyo-night&area=true&hide_border=true" alt="Gráfico de Atividade Animado" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mirandadevelopment&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Estatísticas Animadas" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirandadevelopment&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Animadas" height="175" />
 </p>
 
 ---
